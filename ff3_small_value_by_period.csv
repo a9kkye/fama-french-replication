@@ -1,0 +1,4 @@
+period,n,alpha_%mo,beta_MKT,s_SMB,h_HML,t_HML,R2
+Original (1963-1991),342,0.116,0.947,1.153,0.55,18.409,0.96
+Lost decade (2010-2021),124,0.181,0.84,1.031,0.574,12.829,0.96
+Value comeback (2022-present),0,,,,,,

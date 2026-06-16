@@ -1,0 +1,10 @@
+period,factor,n,mean_%mo,ann_%,sharpe_ann,t_NW
+Original (1963-1991),Mkt-RF,342,0.407,4.993,0.307,1.573
+Original (1963-1991),SMB,342,0.219,2.663,0.255,1.143
+Original (1963-1991),HML,342,0.412,5.062,0.568,2.542
+Lost decade (2010-2021),Mkt-RF,124,0.993,12.591,0.828,3.773
+Lost decade (2010-2021),SMB,124,-0.125,-1.492,-0.178,-0.652
+Lost decade (2010-2021),HML,124,-0.415,-4.866,-0.537,-1.516
+Value comeback (2022-present),Mkt-RF,0,,,,
+Value comeback (2022-present),SMB,0,,,,
+Value comeback (2022-present),HML,0,,,,

@@ -1,0 +1,32 @@
+{
+  "vintage": "Apr 2020",
+  "n_months": 682,
+  "mean_R2_CAPM": 0.7923885939899382,
+  "mean_R2_FF3": 0.931804944338636,
+  "HML_ann_by_period": {
+    "Original (1963-1991)": 5.06,
+    "Lost decade (2010-2021)": -4.87,
+    "Value comeback (2022-present)": null
+  },
+  "HML_t_by_period": {
+    "Original (1963-1991)": 2.54,
+    "Lost decade (2010-2021)": -1.52,
+    "Value comeback (2022-present)": null
+  },
+  "SMB_vol_ann": 10.46605741512626,
+  "HML_vol_ann": 9.925077519536119,
+  "sharpe_value_growth": {
+    "Original (1963-1991)": {
+      "value": 0.55,
+      "growth": 0.22
+    },
+    "Lost decade (2010-2021)": {
+      "value": 0.34,
+      "growth": 0.71
+    },
+    "Value comeback (2022-present)": {
+      "value": null,
+      "growth": null
+    }
+  }
+}
